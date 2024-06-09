@@ -25,5 +25,5 @@
 - [Saudação por meio do horário](https://github.com/Paulo-if/AP1/blob/main/List-04/Sauda%C3%A7%C3%A3o%20por%20meio%20do%20hor%C3%A1rio.c) |
 
 #### List-05:
-
+- [Lista de questões](https://github.com/Paulo-if/AP1/blob/main/List-05/Lista%20de%20quest%C3%B5es.c) |
 
