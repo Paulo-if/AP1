@@ -28,3 +28,5 @@
 ### 🐾List-05:
 - [Lista de questões](https://github.com/Paulo-if/AP1/blob/main/List-05/Lista%20de%20quest%C3%B5es.c) |
 
+### 🐾List-06:
+- [Armazenamento em vetor 01](https://github.com/Paulo-if/AP1/blob/main/list-06/Armaze_em_vetor_1.c) | [Armazenamento em vetor 02](https://github.com/Paulo-if/AP1/blob/main/list-06/Armaze_em_vetor_2.c) | [Armazenamento em vetor 03](https://github.com/Paulo-if/AP1/blob/main/list-06/Armaze_em_vetor_3.c) |
