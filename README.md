@@ -30,3 +30,5 @@
 
 ### 🐾List-06:
 - [Armazenamento em vetor 01](https://github.com/Paulo-if/AP1/blob/main/list-06/Armaze_em_vetor_1.c) | [Armazenamento em vetor 02](https://github.com/Paulo-if/AP1/blob/main/list-06/Armaze_em_vetor_2.c) | [Armazenamento em vetor 03](https://github.com/Paulo-if/AP1/blob/main/list-06/Armaze_em_vetor_3.c) |
+
+- [Armazenamento em vetor 04](https://github.com/Paulo-if/AP1/blob/main/list-06/Armaze_em_vetor_4.c) | [Armazenamento em vetor 05](https://github.com/Paulo-if/AP1/blob/main/list-06/Armaze_em_vetor_5.c) |
