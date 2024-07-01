@@ -43,4 +43,10 @@
 
 - [Armazenamento em vetor 04](https://github.com/Paulo-if/AP1/blob/main/list-06/Armaze_em_vetor_4.c) | [Armazenamento em vetor 05](https://github.com/Paulo-if/AP1/blob/main/list-06/Armaze_em_vetor_5.c) |
 
+--- 
+
+### 🐾List-07:
+- [Vetores_caractres_01](https://github.com/Paulo-if/AP1/blob/main/List-07/Vetores_caracteres_01.c) | [Vetores_caractres_02](https://github.com/Paulo-if/AP1/blob/main/List-07/Vetores_caracteres_02.c) |
+- [Vetores_caractres_03](https://github.com/Paulo-if/AP1/blob/main/List-07/Vetores_caracteres_03.c) | [Vetores_caractres_04](https://github.com/Paulo-if/AP1/blob/main/List-07/Vetores_caracteres_04.c) | 
+
 ---
