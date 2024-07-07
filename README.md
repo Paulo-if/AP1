@@ -1,5 +1,10 @@
-👨‍🏫 *Repositorio destinado as questões e provas da matéria de AP1, promovida pela professora Bruna Mota*
+<div style="display: inline_block"><br>
+<img align="cneter" alt="IMG" height="200" width="300" src="https://github.com/Paulo-if/AP1/blob/main/Imagem%20AP1.png">
+</div>
 
+
+*Repositorio destinado as questões e provas da matéria de AP1, promovida pela professora Bruna Mota*
+--- 
 ### 🐾Prova_Ap1:
 - [Prova.PDF](https://github.com/Paulo-if/AP1/blob/main/Prova_Ap1/Prova.pdf) | [Código](https://github.com/Paulo-if/AP1/blob/main/Prova_Ap1/Prova-01.c) |
 
