@@ -3,9 +3,8 @@
   <img src="https://github.com/Paulo-if/AP1/blob/main/AP1.png" alt="IMG" width="300" height="150">
 </div>
 
+- Repository dedicated to AP1 subject questions and tests, promoted by the teacher [Bruna Mota](https://github.com/brunamota)
 
-*Repositorio destinado as questões e provas da matéria de AP1, promovida pela professora Bruna Mota*
---- 
 ### 🐾Prova_Ap1:
 - [Prova.PDF](https://github.com/Paulo-if/AP1/blob/main/Prova_Ap1/Prova.pdf) | [Código](https://github.com/Paulo-if/AP1/blob/main/Prova_Ap1/Prova-01.c) |
 
