@@ -6,7 +6,7 @@
 - Repository dedicated to AP1 subject questions and tests, promoted by the teacher [Bruna Mota](https://github.com/brunamota)
 
 ### 🐾Prova_Ap1:
-- [Prova.PDF](https://github.com/Paulo-if/AP1/blob/main/Prova_Ap1/Prova.pdf) | [Código](https://github.com/Paulo-if/AP1/blob/main/Prova_Ap1/Prova-01.c) |
+- [Prova_01.PDF](https://github.com/Paulo-if/AP1/blob/main/Prova_Ap1/Prova.pdf) | [Código](https://github.com/Paulo-if/AP1/blob/main/Prova_Ap1/Prova-01.c) |
 - [Prova_02.PDF](https://github.com/Paulo-if/AP1/blob/main/Prova_Ap1/Prova_02.pdf.pdf) | [Código](https://github.com/Paulo-if/AP1/blob/main/Prova_Ap1/Prova_02.c) |
 
 --- 
