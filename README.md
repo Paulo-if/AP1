@@ -62,4 +62,7 @@
 - [Matriz 3x3-03](https://github.com/Paulo-if/AP1/blob/main/List_08/Matriz_3x3_03.c) | [Matriz 3x4](https://github.com/Paulo-if/AP1/blob/main/List_08/Matriz_3x4.c) |
 - [Matriz 4x4](https://github.com/Paulo-if/AP1/blob/main/List_08/Matriz_4x4.C) | 
 
+### 🐾List-09:
+- [Lista de Exercicios](https://github.com/Paulo-if/AP1/blob/main/List_09/Atividade01.c)
+
 --- 
