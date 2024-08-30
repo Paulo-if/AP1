@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/Paulo-if/AP1/blob/main/AP1.png" alt="IMG" width="300" height="150">
+  <img src="https://github.com/Paulo-if/AP1/blob/main/2.png" alt="IMG" width="400" height="150">
 </div>
 
 - Repository dedicated to AP1 subject questions and tests, promoted by the teacher [Bruna Mota](https://github.com/brunamota)
