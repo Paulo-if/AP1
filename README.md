@@ -3,7 +3,7 @@
   <img src="https://github.com/Paulo-if/AP1/blob/main/All/2.png" width="400" height="150">
 </div>
 
-- Repository dedicated to AP1 subject questions and tests, promoted by the teacher [Bruna Mota](https://github.com/brunamota)
+- Repository dedicated to AP(Programming algorithms) subject questions and tests, promoted by the teacher [Bruna Mota](https://github.com/brunamota)
 
 ### 🐾Prova_Ap1:
 - [Prova_01.PDF](https://github.com/Paulo-if/AP1/blob/main/All/Prova_Ap1/Prova.pdf) | [Código](https://github.com/Paulo-if/AP1/blob/main/All/Prova_Ap1/Prova-01.c) |
